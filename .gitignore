@@ -1,4 +1,33 @@
+# Bytecode and Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
 env/
 .venv/
+.aa-env/
+aa-env/
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# VS Code and editor files
+.vscode/
+.idea/
+
+# SQLite and test DBs
+*.sqlite3
+
+# Django secret files
+*.log
+*.pid
+*.db
+*.bak
+
+# Test project (optional)
+testauth/
+

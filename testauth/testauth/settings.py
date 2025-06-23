@@ -125,7 +125,3 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-
-##GREENLIGHT##
-
-#GREENLIGHT_DISCORD_WEBHOOK = 'https://discord.com/api/webhooks/1386120308892762192/hOm4gDxmLpeah8BOC9wHP9dIyVGog1AzFL33lsB7hzELdWKhDWnd0E_8KYCzfrFrMjUZ'
